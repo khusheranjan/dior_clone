@@ -10,7 +10,7 @@ function Hero() {
         <a className='text-xs font-medium underline' href="#">Discover</a>
        </div>
        <div className='p-4 md:p-0 transition ease-in-out duration-500 hover:scale-110 '>
-        <img src="https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Library-Sites-DiorSharedLibrary/default/dw59aedbaa/images/beauty/0-HOME/BEAUTY/2025/05-MAY/A25_Parfum_MD_LoveAtelier_Model_3000x3000.jpg?sw=1024" alt="Fragnance" />
+        <img src="https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Library-Sites-DiorSharedLibrary/default/dwc33b4777/images/beauty/02-MAKEUP/2025/Backstage-25/launchpage/Backstage25_Model_Jenna_Stick_3200x1800.jpg?sw=2048" alt="Fragnance" />
         <h3 className='font-bold text-sm'>FRAGNANCE & BEAUTY</h3>
         <a className='text-xs font-medium underline' href="#">Discover</a>
        </div>
